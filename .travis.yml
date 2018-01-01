@@ -5,3 +5,9 @@ rvm:
 branches:
   - master
   - updates
+os:
+  - osx
+  - linux
+script:
+  - stty rows 120
+  - stty cols 120
