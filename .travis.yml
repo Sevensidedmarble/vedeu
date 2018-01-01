@@ -5,5 +5,3 @@ rvm:
 branches:
   - master
   - updates
-script: 'bundle exec rake'
-sudo: false
