@@ -11,3 +11,4 @@ os:
 script:
   - stty rows 120
   - stty cols 120
+  - bundle exec rake 
